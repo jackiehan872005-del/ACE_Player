@@ -1,5 +1,8 @@
 {
-  "version": "1.03",
-  "url": "https://github.com/jackiehan872005-del/ACE_Player/releases/download/v1.03/ACE_Player_v1.03_Installer.exe",
-  "changelog": "Phát hành bản cài đặt ACE Player v1.03"
+  "version": "1.04",
+  "download_url": "https://github.com/jackiehan872005-del/ACE_Player/releases/download/v1.04/ACE_Player_v1.04_Installer.exe",
+  "url": "https://github.com/jackiehan872005-del/ACE_Player/releases/download/v1.04/ACE_Player_v1.04_Installer.exe",
+  "sha256": "77E8FBD85A5DA08E34287CE164C83B8A3D5BE2C18DF75295193F0A1B43A99008",
+  "size_mb": 147.0,
+  "changelog": "ACE PLAYER v1.04 Commercial Pro: Auto-Update OTA Engine with Silent Background Deployment, Dual-Format HWID/Phone Blacklist Security Bridge, Semantic Multi-Tuple Version Parsing, Spacebar Real-time Audition in Keypad Editor, 64-bit Stereo DSP Mastering with Subsonic 30Hz Protection, Coupled Brickwall Limiter, QLab Show Control with Fast Drag & Drop Cues, Hardware Soundcard Hotplug Auto-Failover, HDMI Secondary Screen Rescue."
 }
